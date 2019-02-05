@@ -40,4 +40,4 @@ and show the training loss in every 5 iterations and showing the accuracy in eac
 
 #### Testing
 Here i feeded the RNN with the test set to see how good is it. With this parameters
-i've got a accuracy of 78%
+i've got a accuracy of 82,4%
